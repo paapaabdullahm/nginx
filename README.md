@@ -4,7 +4,7 @@ Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IM
 
 Nginx version:  **`v1.10.*`**
 
-> The version of Nginx used in this image will always correspond to the version available in the apt repository of the current Ubuntu LTS release which at the time of writing was `Ubuntu 16.04`
+> The version of Nginx used in this image will always correspond to the version available in the apt repository of the current Ubuntu LTS release which at the time of writing, was `Ubuntu 16.04`
 
 ## Usage
 
