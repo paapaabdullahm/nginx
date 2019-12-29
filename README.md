@@ -2,7 +2,7 @@
 
 Nginx is an open source reverse proxy server for HTTP, HTTPS, SMTP, POP3, and IMAP protocols, as well as a Load Balancer, HTTP cache, Web Server, etc.
 
-Nginx version:  **`v1.17.*`**
+Nginx version:  **`v1.16.*`**
 
 ## Usage
 
