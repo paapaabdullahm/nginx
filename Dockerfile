@@ -1,2 +1,2 @@
-FROM nginx:1.17.6
+FROM nginx:1.16.1
 LABEL maintainer="Abdullah Morgan <paapaabdullahm@gmail.com>"
